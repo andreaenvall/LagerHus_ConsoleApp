@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagerHus_lager", "LagerHus_lager\LagerHus_lager.csproj", "{29F47596-0311-4459-B412-D569D2F4F6DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagerHus_UI", "LagerHus_UI\LagerHus_UI.csproj", "{FA57B58C-52AB-42D8-B84F-878B6DE20FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F47596-0311-4459-B412-D569D2F4F6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F47596-0311-4459-B412-D569D2F4F6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F47596-0311-4459-B412-D569D2F4F6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F47596-0311-4459-B412-D569D2F4F6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA57B58C-52AB-42D8-B84F-878B6DE20FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA57B58C-52AB-42D8-B84F-878B6DE20FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA57B58C-52AB-42D8-B84F-878B6DE20FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA57B58C-52AB-42D8-B84F-878B6DE20FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88407FD-8980-42BA-9422-CC3C81A361B4}
+	EndGlobalSection
+EndGlobal
